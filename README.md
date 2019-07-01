@@ -33,7 +33,9 @@ I used Maven, for this reason to run the test is a mandatory tool.
 ### Steps to run the app:
 
 1. Clone or Download the repo
-2. Run the class ZooUseMain
+2. Create an Eclipse project by executing the following command on the prompt: mvn eclipse:eclipse and then mvn clean install
+3. Import the project on eclipse
+4. Run the class ZooUseMain
 
 ### Steps to run the tests and get the test coverage report:
 
